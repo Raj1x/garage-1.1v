@@ -1,5 +1,5 @@
 # garage-1.1v
 Started learning classes and __init__'s 👀
 
-<img src="[[https://imgur.com/a/u4Hj9eq](https://imgur.com/a/u4Hj9eq)](https://imgur.com/XvvGNc4)" width="270" height="270" alt="Garage Chan Profile">
+<img width="270" height="270" alt="image" src="https://github.com/user-attachments/assets/ca170182-a9e7-41a0-8f90-e07fad323e87" />
 
