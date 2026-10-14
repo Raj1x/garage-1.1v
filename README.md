@@ -1,4 +1,4 @@
 # garage-1.1v
 Started learning classes and __init__'s 👀
 
-[https://www.tiktok.com/topic/eye-twitch-emoji-copy-and-paste?lang=fr](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpL7UD3UhlbfJYDSmLy00tuEm6IQroXmbkrk3kOwVSNJP0o2toJIpuGAzy&s=10)
+https://cdn.discordapp.com/attachments/1154349918329262162/1559949731713523762/images.png?ex=6ad0efe6&is=6acf9e66&hm=b6a62000bc5464da39f6a3bf64ed0e2d6c9b708fe05bd9286720485c4733b02a&
